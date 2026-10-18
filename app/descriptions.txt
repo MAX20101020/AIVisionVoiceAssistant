@@ -1,3 +1,6 @@
 Photo C:\Users\denys\PycharmProjects\AIVisionVoiceAssistant\input\landscape.jpg:
 arafed view of a river running through a lush green field
 
+Photo C:\Users\denys\PycharmProjects\AIVisionVoiceAssistant\input\dog.jpg:
+there is a dog that is laying down in the grass
+
